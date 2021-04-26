@@ -1,6 +1,6 @@
 # Conjunto de Dados
 Este repositório contém bases de dados de duas dimensões com formatos arbitrários. 
-A tabela abaixo apresenta um resumo sobre as bases de dados referente ao número de elemente, número de classes e número de variáveis presente em cada uma das bases de dados.
+A tabela abaixo apresenta um resumo referente ao número de elementos, número de classes e número de variáveis presente em cada uma das bases de dados.
 
 
 | Base de dados       |  Num. Elementos     |  Num. Classes       |  Num. Variáveis     |
